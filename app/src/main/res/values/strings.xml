@@ -1,0 +1,12 @@
+
+    <resources>
+        <string name="app_name">Convertor</string>
+        <string-array name="opciones_array">
+            <item>De Kelvin a Celsius </item>
+            <item>De Fahrenheit a Celsius </item>
+            <item>De celsius a Fahrenheit </item>
+            <item>De Kelvin a Fahrenheit </item>
+            <item>De Celsius a Kelvin </item>
+            <item>De Fahrenheit a Kelvin </item>
+        </string-array>
+    </resources>
